@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/peanutbutterjlly/frontEndMentorChallenges/tree/master/3-column-preview-card-component-main](https://github.com/peanutbutterjlly/frontEndMentorChallenges/tree/master/3-column-preview-card-component-main)
+- Live Site URL: [https://front-end-mentor-challenges-6wpj.vercel.app](https://front-end-mentor-challenges-6wpj.vercel.app)
 
 ## My process
 
